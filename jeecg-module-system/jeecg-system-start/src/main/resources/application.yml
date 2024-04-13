@@ -3,3 +3,6 @@ spring:
     name: jeecg-system
   profiles:
     active: '@profile.name@'
+
+minidao :
+  base-package: org.jeecg.modules.jmreport.desreport.dao*

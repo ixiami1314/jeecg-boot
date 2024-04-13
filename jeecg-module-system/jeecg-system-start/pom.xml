@@ -24,6 +24,11 @@
             <artifactId>jeecg-module-demo</artifactId>
             <version>${jeecgboot.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.jeecgframework.jimureport</groupId>
+            <artifactId>jimureport-spring-boot-starter</artifactId>
+            <version>1.7.4</version>
+        </dependency>
         <!--人大金仓
         <dependency>
             <groupId>org.jeecgframework</groupId>
